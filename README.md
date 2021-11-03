@@ -1,7 +1,7 @@
 ## Welcome to the Chondrogenesis Browser
 
 This repository is created in an attempt to make gene/transcript lookup easier for the scientific community in musculoskeletal research. <br>
-Over time, we aim to also integrate data from single cell RNA-seq generated from the Guilak lab. <br>
+Over time, we aim to integrate single cell RNA-seq data generated from the Guilak lab as well. <br>
 You can send questions or feedbacks to me by creating an issue here. For now, enjoy browsing! 
 
 <b>Access the browser [here](https://guilak-lab.shinyapps.io/Chondrogenesis_Browser_v2/)</b> 
